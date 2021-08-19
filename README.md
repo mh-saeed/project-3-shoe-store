@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### [Live Site](https://bootcamp2020_project3_shoestore.surge.sh)
+## [Live Site](https://bootcamp2020_project3_shoestore.surge.sh)
 
 ## Available Scripts
 
