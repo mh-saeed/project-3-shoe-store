@@ -39,11 +39,11 @@ const Navigation = () => {
             </Nav.Item>
           </Nav>
           <Nav className="justify-content-end">
-            <Nav.Item >
+            <Nav.Item>
               <Nav.Link
                 className={styles.sourceCode}
                 target="_blank"
-                href="https://github.com/mh-saeed"
+                href="https://github.com/mh-saeed/project-3-shoe-store"
               >
                 Source Code
               </Nav.Link>
